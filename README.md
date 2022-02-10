@@ -16,3 +16,4 @@ This is a normal flutter app. You should follow the instructions in the [officia
 
 - <https://github.com/matiasdev30>
 
+![Captura de Ecrã (98)](https://user-images.githubusercontent.com/50122963/153404507-a623a6da-7beb-473e-808b-c459950c372e.png)
